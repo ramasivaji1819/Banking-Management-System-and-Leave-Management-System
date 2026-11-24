@@ -1,0 +1,22 @@
+# Java
+*.class
+*.jar
+*.war
+
+# Maven
+target/
+
+# Gradle
+build/
+
+# IDE
+.idea/
+.vscode/
+*.iml
+
+# Logs
+*.log
+
+# Environment variables
+.env
+application-secret.properties
